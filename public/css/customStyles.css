@@ -1,0 +1,9 @@
+.ck .ck-content {
+    height: 150px;
+}
+
+.dataTables_paginate,
+#applications_filter {
+    display: flex;
+    justify-content: end;
+}
